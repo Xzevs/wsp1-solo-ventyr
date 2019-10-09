@@ -13,6 +13,6 @@ $links = $sth->fetchAll(PDO::FETCH_ASSOC);
 
 $page_title = "Soloäventyr - Start";
 
-include 'views/index.php';
+include 'views/index_layout.php';
 
 ?>
