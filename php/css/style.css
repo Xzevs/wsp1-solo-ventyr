@@ -1,6 +1,7 @@
 body {
     background-color: bisque;
     font-size: 16px;
+
 }
 
 main {
@@ -10,6 +11,7 @@ main {
 
 p {
     font-size: 1.4em;
+    
 }
 
 ul {
