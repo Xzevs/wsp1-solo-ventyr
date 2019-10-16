@@ -6,6 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title><?= $pageTitle; ?></title>
     <link rel="stylesheet" href="css/style.css">
+    <style type="text/css">
+<!--
+a:link { color: #000000; text-decoration: none}
+-->
+</style>
 </head>
 <body>
     <main>
