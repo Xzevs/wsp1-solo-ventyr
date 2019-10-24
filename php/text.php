@@ -1,6 +1,7 @@
 <?php
 
-$array = array();
+//$array = array();
+$array = [];
 
 $array[0] ="plats1";
 $array[1] ="Plats2";
